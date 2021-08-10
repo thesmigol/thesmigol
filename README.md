@@ -8,7 +8,7 @@ Faço de tudo um pouco e de pouco tudo
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=0xw01f&theme=radical&show_icons=true)
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/deusmigol?color=%231DA1F2&label=%F0%9F%90%A4%20Segue no twitterstyle=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/deusmigol?color=%231DA1F2&label=%F0%9F%90%A4%20Segue no twitter&style=flat-square)
 
 
 
