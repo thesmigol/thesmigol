@@ -28,8 +28,8 @@ Faço de tudo um pouco e de pouco tudo
   - C#
   - C/C++
 - Frameworks
-  - Discord.js
-  - Express.js
+  - Vue.js
+  - MongoDB
   - Node.js
 - Python
 
