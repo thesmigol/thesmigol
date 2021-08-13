@@ -1,11 +1,11 @@
-<h2>O glorioso ✨<i>GitHub</i>✨ do *THESMIGOL*</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesmigol&label=%F0%9F%8C%9F%20%20CURIOSOS QUE ENTRARAM AQUI&color=0e75b6&style=flat" alt="0xw01f" /> </p>
+<h2>O glorioso ✨<i>GitHub</i>✨ do THESMIGOL</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesmigol&label=%F0%9F%8C%9F%20%20CURIOSOS QUE ENTRARAM AQUI&color=0e75b6&style=flat" alt="thesmigol" /> </p>
 
 Faço de tudo um pouco e de pouco tudo
 
   
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=0xw01f&theme=radical&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=thesmigol&theme=radical&show_icons=true)
 
 
 
