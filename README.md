@@ -5,7 +5,7 @@ Faço de tudo um pouco e de pouco tudo
 
   
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=thesmigol&theme=radical&show_icons=true)
+![Sou pedreiro](https://github-readme-stats.vercel.app/api/top-langs?username=thesmigol&theme=radical&show_icons=true)
 
 
 
