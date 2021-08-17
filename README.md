@@ -5,8 +5,8 @@ Faço de tudo um pouco e de pouco tudo
 
   
 
-![Sou pedreiro](https://github-readme-stats.vercel.app/api/top-langs?username=thesmigol&theme=radical&show_icons=true)
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thesmigol&show_icons=true&theme=dracula&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmigol&show_icons=true&theme=dracula&count_private=true" />
 
 
  **Idiomas**
