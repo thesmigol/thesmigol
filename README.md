@@ -1,10 +1,3 @@
-<h1>Alvaro Tavares </h1>
-  <h3>✨<i>THESMIGOL</i>✨</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesmigol&label=%F0%9F%8C%9F%20%20CURIOSOS QUE ENTRARAM AQUI&color=0e75b6&style=flat" alt="thesmigol" /> </p>  
-
-  <img src="https://github-readme-stats.vercel.app/api?username=thesmigol&show_icons=true&theme=dracula&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmigol&show_icons=true&theme=dracula&count_private=true" />
-  
  **Languages**
 - Portugues
 - English
@@ -15,6 +8,7 @@
   - CSS
   - Bootstrap
   - PHP
+  - Python
   - Javascript
   - EJS
 - CMS
@@ -23,13 +17,12 @@
   - VB.Net
   - C#
   - C/C++
+  - Python
 - Frameworks
   - Vue.js
-  - Node.js
+  - Express
+  - Next.js
   - Yii Framework
-- Python
-- MongoDB
-- SQL
 
 **Networking**
 - Virtual machines
